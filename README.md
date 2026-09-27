@@ -86,6 +86,10 @@ Prefer a typed client instead of MCP? Official SDKs: [Python](https://github.com
 
 Free tier for non-commercial use; paid plans for commercial use. Details at [eulerpool.com/financial-data-api/pricing](https://eulerpool.com/financial-data-api/pricing).
 
+## License
+
+[MIT](LICENSE). Copyright (c) 2026 Eulerpool Research Systems.
+
 ## Support
 
 api@eulerpool.com · [Documentation](https://eulerpool.com/developers/mcp-server)
